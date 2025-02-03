@@ -1,0 +1,26 @@
+*{
+    font-family: Comic Sans MS;
+    font-size: 15px;
+}
+
+h1{
+    color: black;
+    font-size: 1.5em;
+}
+h3{
+    color: MediumSeaGreen;
+    font-size: 1em;
+    
+}
+h2{
+    color: DodgerBlue;
+    font-size: 1.1em;
+}
+p{
+    font-size: 1em;
+    font-weight: 1000;
+}
+html{
+    padding: 5%;
+    
+}
